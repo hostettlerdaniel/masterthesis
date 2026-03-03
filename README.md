@@ -37,7 +37,7 @@ Code/
 ## Main files
 
 ### `helperfunctions.py`
-Contains utility functions
+Contains useful functions to make Simulation.py cleaner
 
 ### `Simulation.py`
 Contains the main simulation, automatic figure generation
